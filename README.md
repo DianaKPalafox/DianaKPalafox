@@ -1,9 +1,7 @@
 ### Hello ฅ^•×•^ฅ
 
 
-
-![Github](https://user-images.githubusercontent.com/22809173/171267808-ec6fde09-9f1b-46ee-bee9-e6b44fbc5178.gif)
-
+<img src="" width="40" height="40" />
 
 
 
