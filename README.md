@@ -1,6 +1,7 @@
 ### Hello ฅ^•×•^ฅ
 
 
+<img align = center alt= "GIF" src ="https://user-images.githubusercontent.com/22809173/171266810-4ea9d2f7-d281-4fb1-a13d-ea88419f9065.gif" width="500" height="320"/>
 
 
 
