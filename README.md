@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything.
 - 📫 How to reach me: Email
 - 😄 Pronouns: (She/Her)
-- ⚡ Fun fact: I have alot of cats.
+- ⚡ Fun fact: I have alot of cats..
 -->
