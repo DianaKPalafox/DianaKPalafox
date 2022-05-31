@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**DianaKPalafox/DianaKPalafox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
+https://user-images.githubusercontent.com/22809173/171266069-db5cb605-4b83-4017-8d87-d514aea05fc8.mp4
 
 - 🔭 I’m currently working on my python game.
 - 🌱 I’m currently learning pygames.
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Email
 - 😄 Pronouns: (She/Her)
 - ⚡ Fun fact: I have alot of cats..
--->
