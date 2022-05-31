@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hello ฅ^•×•^ฅ
 
 
 
 
-https://user-images.githubusercontent.com/22809173/171266069-db5cb605-4b83-4017-8d87-d514aea05fc8.mp4
+
 
 - 🔭 I’m currently working on my python game.
 - 🌱 I’m currently learning pygames.
